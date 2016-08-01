@@ -1,8 +1,9 @@
 # AdvancedTextSwitcher
 
-Advanced TextSwitcher for faster development.
 
-Just like the way how Google+ display recent reviews on their cards.
+
+TextView 添加文字滚动效果
+
 
 仿照Google+在卡片上滚动显示最新评论的TextSwitcher。
 
